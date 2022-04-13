@@ -41,7 +41,7 @@ High score system that is loaded form a file so it saves even when the game is c
 
 ![img](https://i.imgur.com/mmE4A24.png)
 
-## Input testing
+## More testing
 
 | Test                           | Expected                           | Correct | Notes                                                           |
 | ------------------------------ | ---------------------------------- | ------- | --------------------------------------------------------------- |
